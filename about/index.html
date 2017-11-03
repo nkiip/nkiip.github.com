@@ -1,7 +1,148 @@
 ---
 layout: page
 type: page
-title: About me
+title: 对如何更新及发布本站博文进行说明
 ---
 
-Building....
+<html lang="zh-CN">
+
+  <body>
+    <div id="container">
+      
+
+<h2 id="上传与同步">上传与同步</h2>
+
+<h3 id="初始工作">初始工作</h3>
+
+<ul>
+  <li>确认自己电脑安装了<a href="https://git-scm.com/downloads">git</a>同步工具</li>
+  <li>在希望放置项目文件的根目录下右键 <em>git bash here</em> 执行<br />
+<code class="highlighter-rouge">git clone https://github.com/nkiip/nkiip.github.com nkiip.github.com</code></li>
+  <li>在控制面板中打开凭据管理器切换到实验室git账号	(nkcsiip@gmail.com  nkcs313)</li>
+  <li>在第二次及之后每次上传之前请先执行<br />
+<code class="highlighter-rouge">git pull origin master</code></li>
+</ul>
+
+<h3 id="上传">上传</h3>
+<blockquote>
+  <p><code class="highlighter-rouge">git add . </code><br />
+<code class="highlighter-rouge">git commit –m “*decription for this commit*”</code><br />
+<code class="highlighter-rouge">git push origin master</code></p>
+</blockquote>
+
+<h3 id="同步">同步</h3>
+<blockquote>
+  <p><code class="highlighter-rouge">git pull origin master</code></p>
+</blockquote>
+
+<h2 id="关于编写博文">关于编写博文</h2>
+
+<ul>
+  <li>本站博文均位于 <strong><em>/_posts</em></strong> 目录下，且应遵循统一命名规范：<code class="highlighter-rouge">year-month-day-description</code><br />
+<u>不建议包含中文字符于文件名内，有可能无法解析</u></li>
+  <li>本站有许多博文示例代码，存放于 <strong>/示例博文</strong> 目录下，对应显示效果请点击<a href="http://simpleyyt.com/jekyll-jacman/">这里</a>，本站的许多配置信息也可在该页面查询</li>
+</ul>
+
+<h3 id="markdown常用语法说明">markdown常用语法说明</h3>
+
+<p><strong>上方显示书写代码下方显示实际显示效果</strong></p>
+
+<ul>
+  <li>标题</li>
+</ul>
+
+<div class="highlighter-rouge"><pre class="highlight"><code># Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+</code></pre>
+</div>
+
+<h1 id="heading-1">Heading 1</h1>
+
+<h2 id="heading-2">Heading 2</h2>
+
+<h3 id="heading-3">Heading 3</h3>
+
+<h4 id="heading-4">Heading 4</h4>
+
+<h5 id="heading-5">Heading 5</h5>
+
+<h6 id="heading-6">Heading 6</h6>
+
+<ul>
+  <li>段落及突出显示</li>
+</ul>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Lorem ipsum dolor sit amet, [test link]() consectetur adipiscing elit.  
+ **Strong text** pellentesque ligula commodo viverra vehicula.   
+*Italic text* at ullamcorper enim. Morbi a euismod nibh.   
+&lt;u&gt;Underline text&lt;/u&gt; non elit nisl. ~~Deleted text~~ tristique, sem id  
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`,  
+Lorem &lt;sup&gt;superscript&lt;/sup&gt; dolor &lt;sub&gt;subscript&lt;/sub&gt; amet  
+&lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui.  
+&lt;acronym title="National Basketball Association"&gt;NBA&lt;/acronym&gt; Mauris a ante.  
+ Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &lt;abbr title="Avenue"&gt;AVE&lt;/abbr&gt;  
+
+&gt; Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
+</code></pre>
+</div>
+<p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit.<br />
+ <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <br />
+<em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <br />
+<u>Underline text</u> non elit nisl. <del>Deleted text</del> tristique, sem id</p>
+
+<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. <code class="highlighter-rouge">Sed erat diam</code>,<br />
+Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet<br />
+<cite>cite</cite>. Nunc iaculis suscipit dui.<br />
+<acronym title="National Basketball Association">NBA</acronym> Mauris a ante.<br />
+ Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  <abbr title="Avenue">AVE</abbr></p>
+
+<blockquote>
+  <p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.</p>
+</blockquote>
+
+<h3 id="一些需要注意的">一些需要注意的</h3>
+
+<ul>
+  <li>每一个博文最开始应包含下方<strong><em>title</em></strong>内容 其余仅供需要时使用</li>
+</ul>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>---
+title: 组会与讨论班_2017_1 #文章所显示的标题 必含
+date: 2017-10-24 10:29:08 #日期与时间 可有可无
+tags:
+- Group Meeting #文章所属标签
+excerpt_separator:  &lt;!--more--&gt; #在首页是否全部显示
+---
+</code></pre>
+</div>
+
+<ul>
+  <li>关于换行</li>
+</ul>
+
+<p>若在paragragh中需要自行换行请打<code class="highlighter-rouge">两个空格加回车</code></p>
+
+<ul>
+  <li>注意行首标识与内容之间有空格</li>
+  <li>一些更高级的显示功能请参照示例博文及对应显示效果</li>
+</ul>
+
+  
+	</div>
+  </body>
+</html>
+
+
+
+
+
