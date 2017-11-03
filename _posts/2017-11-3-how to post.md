@@ -1,5 +1,6 @@
 ---
 title: How to post
+excerpt_link: Read More
 ---
 
 **对如何更新及发布本站博文进行说明**
