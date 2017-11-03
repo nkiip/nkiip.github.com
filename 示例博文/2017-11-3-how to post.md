@@ -1,12 +1,11 @@
 ---
 title: How to post
-excerpt_separator: <!--more-->
-excerpt_link: Read More
+excerpt_separator:  <!--More-->
 ---
 
 **对如何更新及发布本站博文进行说明**
 
-<!-- more -->
+<!--More-->
 
 ## 上传与同步
 
@@ -82,6 +81,7 @@ Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet
 
 > Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
 ```
+
 Lorem ipsum dolor sit amet, [test link]() consectetur adipiscing elit.  
  **Strong text** pellentesque ligula commodo viverra vehicula.   
 *Italic text* at ullamcorper enim. Morbi a euismod nibh.   
