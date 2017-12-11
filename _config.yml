@@ -84,8 +84,8 @@ share_to: true #enable share-to buttons if true
 
 #### Author information
 author:
-  name: hill_huang      ## e.g. wuchong Author name
-  intro_line1:  "This is our lab site."    ## your introduction on the bottom of the page
+  name: NKIIP      ## e.g. wuchong Author name
+  intro_line1:  "Website of Intelligent Information Processing Lab, NanKai University"    ## your introduction on the bottom of the page
   ## intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
