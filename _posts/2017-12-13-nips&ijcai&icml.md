@@ -42,6 +42,6 @@ metric_learning_tutorial_CIL-2013
 
 全文下载：
 [nips2017-introduction](https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/20171213/nips2017-introduction.pptx)
-[icml&ijcai2017-introduction](https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/20171213/icml&ijcai2017.pptx)
+[icml&ijcai2017-introduction](https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/20171213/icml-ijcai2017.pptx)
 
 
