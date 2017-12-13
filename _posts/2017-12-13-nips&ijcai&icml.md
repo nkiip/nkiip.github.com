@@ -12,7 +12,9 @@ tags:
 
 ### Representation of Graph Data
 DeepWalk:Online Learning of Social Representations-kdd2014
+
 Inductive Representation Learning on Large Graphs-nips2017
+
 Protein Interface Prediction using Graph Convolutional Networks-nips2017
 
 ### PU-learning
@@ -23,12 +25,19 @@ Graph Matching via Multiplicative Update Algorithm-nips2017
 
 ### Matrix Factorization & completion
 Adaptive Manifold Regularized Matrix Factorization for Data Clustering-IJCAI-2017
+
 On Mixed Memberships and Symmetric Nonnegative Matrix Factorizations-ICML2017
+
 Joint Capped Norms Minimization for Robust Matrix Recovery-IJCAI-2017
+
 Improved Bounded Matrix Completion for Large-Scale Recommender Systems-IJCAI2017
+
 Multi-Component Nonnegative Matrix Factorization-IJCAI-2017
+
 Privileged Matrix Factorization for Collaborative Filtering-IJCAI-2017
+
 Tensor Decompositions and Applications-2007
+
 metric_learning_tutorial_CIL-2013
 
 全文下载：
