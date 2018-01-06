@@ -9,33 +9,32 @@ author: 刘晓虎
 <html lang="zh-CN">
 <body>
 <div id="container">
-      
+
+:exclamation: 不定期更新 :exclamation:
 
 <h2 id="server">:relaxed:服务器使用须知</h2>
-
-<h3 id="初始工作">初始工作</h3>
-
+<p>:cat: 服务器是实验室每个同学都要用到的，使用过程中难免会有一些小问题，现总结如下：</p>
 <ul>
-  <li>确认自己电脑安装了<a href="https://git-scm.com/downloads">git</a>同步工具</li>
-  <li>在希望放置项目文件的根目录下右键 <em>git bash here</em> 执行<br />
-<code class="highlighter-rouge">git clone https://github.com/nkiip/nkiip.github.com nkiip.github.com</code></li>
-  <li>在控制面板中打开凭据管理器切换到实验室git账号	(nkcsiip@gmail.com  nkcs313)</li>
-  <li>在第二次及之后每次上传之前请先执行<br />
-    <code class="highlighter-rouge">git pull origin master</code></li>
-  <li>ps:如果需要多个github账户协同可以登录实验室github账号进入本项目添加自己的git用户名</li>
+  <li>每台服务器具体端口号都用标签贴在服务器上，可自行查看</li>
+  <li>:cop:现实验室共有大小服务器6台，其中3台新的（包括2台GPU服务器及1台戴尔塔式服务器）处于一直运行状态，10004为Windows服务器，10005为Win Server 2012服务器，20005为CentOS服务器；另外3台也可开机正常使用，10000,10001为Windows服务器，20004为CentOS服务器</li>
+  <li>:thumbsup:重启服务器时一定要在群里询问有没有同学在跑实验，或者通过任务管理器查看一下，然后再进行重启</li>
+  <li>:joy:新安装的软件不要直接安装在C盘，相信大家都有这个意识了，一般服务器软件都会装在D盘下program files或x86文件夹下</li>
+  <li>:minidisc:不要轻易重装系统，因为重装系统、软件以及进行新系统的配置使得大家都能用是很费时费力的</li>
+  <li>:kissing_smiling_eyes:服务器是实验室的公共资源，希望大家好好爱护保养，然后才是Enjoy it:recycle:</li>
 </ul>
 
-<h3 id="上传">上传</h3>
-<blockquote>
-  <p><code class="highlighter-rouge">git add . </code><br />
-<code class="highlighter-rouge">git commit –m “*decription for this commit*”</code><br />
-<code class="highlighter-rouge">git push origin master</code></p>
-</blockquote>
+<h2 id="sources">:secret:实验室相关资料</h2>
+<p>:pushpin: 实验室相关资料我已汇总成文档，可随时查阅。因涉及到实验室隐私，就不上传了，具体见10004服务器E盘/实验室相关材料文件夹，主要文档如下：</p>
+<ul>
+  <li>:dog:路由器配置及使用教程：实验室所用是支持IPV6的网件路由器，主要需要了解的是端口映射，及远程访问服务器功能</li>
+  <li>:mouse:Printer远程访问教程：因为打印机和服务器是在一个小局域网内，现一般都是从服务器直接打印，如想用自己电脑直接连接打印机，可参考该教程</li>
+  <li>:alien:Printer墨盒更换：墨盒采购及更换教程</li>
+  <li>:rabbit:项目报销注意事项：包括且不限于网费充值，设备采购，家居购买等说明，以及在报销过程中的一些注意事项，减少项目报销所带来的不必要的时间及人力开销</li>
+  <li>:frog:戴尔服务器售后：如戴尔塔式服务器有什么问题，比如系统重装（比较特殊）等请联系售后</li>
+  <li>:tiger:实验室公共账号，如有需要请自行查看。注意网络账号仅供实验室服务器使用，请勿自用:whale:</li>
+</ul>
 
-<h3 id="同步">同步</h3>
-<blockquote>
-  <p><code class="highlighter-rouge">git pull origin master</code></p>
-</blockquote>
+<h2 id="last">:yum:写在最后：如有遗漏或其它未考虑到的内容，请大家一起更新，为实验室及师弟师妹们留下宝贵的财富:innocent:</h2>
 
 </div>
 </body>
