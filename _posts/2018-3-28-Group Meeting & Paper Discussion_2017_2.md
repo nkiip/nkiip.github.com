@@ -42,12 +42,12 @@ tags:
 	<p>讨论论文</p>
 	<p>(1)Low-Rank Linear Cold-Start Recommendation from Social Data £¨AAAI-17)</p>
 	<p>(2)Metagenes and molecular pattern discovery using matrix factorization (PNAS 2004)</p>
-</td><td>刘嘉晖、雷尧</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-23.zip">下载</a></td></tr>
+</td><td><p>刘嘉晖</p><p>雷尧</p></td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-23.zip">下载</a></td></tr>
 <tr><td>3</td><td>2018/3/30</td><td>
 	<p>讨论论文</p>
 	<p>(1)Stacked Denoising Autoencoder-based Deep Collaborative Filtering Using the Change of Similarity (2017 31st International Conference on Advanced Information Networking and Applications Workshops)</p>
 	<p>(2)Deep Matrix Factorization Models for Recommender Systems(IJCAI-2017)	</p>
 	<p>(3)Adaptive Manifold Regularized Matrix Factorization for Data Clustering (IJCAI-2017)</p>
 	<p>(4)Multi-Component Nonnegative Matrix Factorization (IJCAI-2017)</p>
-</td><td>刘晓虎、金旭、袁俊豪</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-30.zip">下载</a></td></tr>
+</td><td><p>刘晓虎</p><p>金旭</p><p>袁俊豪</p></td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-30.zip">下载</a></td></tr>
 </tbody></table>
