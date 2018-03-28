@@ -35,12 +35,12 @@ tags:
 <thead><tr class="tableizer-firstrow"><th></th><th>时间</th><th>题目</th><th>主讲</th><th>&nbsp;</th></tr></thead><tbody>
  <tr><td>1</td><td>2018/3/16</td><td>
 	<p>详细介绍上学期讲过的两篇论文</p>
-	<p>(1)DeepWalk:Online Learning of Social Representations £¨KDD2014)</p>
+	<p>(1)DeepWalk:Online Learning of Social Representations (KDD2014)</p>
 	<p>(2)Adaptive Manifold Regularized Matrix Factorization for Data Clustering (IJCAI-2017)</p>
 </td><td>刘嘉晖</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-16.zip">下载</a></td></tr>
- <tr><td>2</td><td>2018/3/28</td><td>
+ <tr><td>2</td><td>2018/3/23</td><td>
 	<p>讨论论文</p>
-	<p>(1)Low-Rank Linear Cold-Start Recommendation from Social Data £¨AAAI-17)</p>
+	<p>(1)Low-Rank Linear Cold-Start Recommendation from Social Data (AAAI-17)</p>
 	<p>(2)Metagenes and molecular pattern discovery using matrix factorization (PNAS 2004)</p>
 </td><td><p>刘嘉晖</p><p>雷尧</p></td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-23.zip">下载</a></td></tr>
 <tr><td>3</td><td>2018/3/30</td><td>
