@@ -1,13 +1,13 @@
 ---
-title: ×é»áÓëÌÖÂÛ°à_2017_2
-date: 2018-03-28 16:16:00
-author: Ô¬¿¡ºÀ
+title: 2017-2018 ç¬¬äºŒå­¦æœŸ ç»„ä¼šä¸è®¨è®ºç­
+date: 2018-03-28 18:03:00
+author: è¢ä¿Šè±ª
 excerpt_separator:  <!--More-->
 tags:
 - Paper Discussion
 ---
 
-# 2017-2018Ñ§ÄêµÚ¶şÑ§ÆÚÌÖÂÛ°à
+# 2017-2018å­¦å¹´ç¬¬äºŒå­¦æœŸè®¨è®ºç­
 
 <!-- more -->
 
@@ -32,22 +32,22 @@ tags:
 </style>
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th></th><th>Ê±¼ä</th><th>ÌâÄ¿</th><th>½²Õß</th><th>&nbsp;</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th></th><th>æ—¶é—´</th><th>é¢˜ç›®</th><th>ä¸»è®²</th><th>&nbsp;</th></tr></thead><tbody>
  <tr><td>1</td><td>2018/3/16</td><td>
-	<p>ÏêÏ¸½éÉÜÉÏÑ§ÆÚ½²¹ıµÄÁ½ÆªÂÛÎÄ</p>
-	<p>(1)DeepWalk:Online Learning of Social Representations £¨KDD2014)</p>
+	<p>è¯¦ç»†ä»‹ç»ä¸Šå­¦æœŸè®²è¿‡çš„ä¸¤ç¯‡è®ºæ–‡</p>
+	<p>(1)DeepWalk:Online Learning of Social Representations Â£Â¨KDD2014)</p>
 	<p>(2)Adaptive Manifold Regularized Matrix Factorization for Data Clustering (IJCAI-2017)</p>
-</td><td>Áõ¼ÎêÍ</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-16.zip">ÏÂÔØ</a></td></tr>
+</td><td>åˆ˜å˜‰æ™–</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-16.zip">ä¸‹è½½</a></td></tr>
  <tr><td>2</td><td>2018/3/28</td><td>
-	<p>ÌÖÂÛÂÛÎÄ</p>
-	<p>(1)Low-Rank Linear Cold-Start Recommendation from Social Data £¨AAAI-17)</p>
+	<p>è®¨è®ºè®ºæ–‡</p>
+	<p>(1)Low-Rank Linear Cold-Start Recommendation from Social Data Â£Â¨AAAI-17)</p>
 	<p>(2)Metagenes and molecular pattern discovery using matrix factorization (PNAS 2004)</p>
-</td><td>Áõ¼ÎêÍ¡¢À×Ò¢</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-23.zip">ÏÂÔØ</a></td></tr>
+</td><td>åˆ˜å˜‰æ™–ã€é›·å°§</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-23.zip">ä¸‹è½½</a></td></tr>
 <tr><td>3</td><td>2017/9/21</td><td>
-	<p>ÌÖÂÛÂÛÎÄ</p>
+	<p>è®¨è®ºè®ºæ–‡</p>
 	<p>(1)Stacked Denoising Autoencoder-based Deep Collaborative Filtering Using the Change of Similarity (2017 31st International Conference on Advanced Information Networking and Applications Workshops)</p>
 	<p>(2)Deep Matrix Factorization Models for Recommender Systems(IJCAI-2017)	</p>
 	<p>(3)Adaptive Manifold Regularized Matrix Factorization for Data Clustering (IJCAI-2017)</p>
 	<p>(4)Multi-Component Nonnegative Matrix Factorization (IJCAI-2017)</p>
-</td><td>ÁõÏş»¢¡¢½ğĞñ¡¢Ô¬¿¡ºÀ</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-30.zip">ÏÂÔØ</a></td></tr>
+</td><td>åˆ˜æ™“è™ã€é‡‘æ—­ã€è¢ä¿Šè±ª</td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-30.zip">ä¸‹è½½</a></td></tr>
 </tbody></table>
