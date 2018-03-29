@@ -49,5 +49,6 @@ tags:
 	<p>(2)Deep Matrix Factorization Models for Recommender Systems(IJCAI-2017)	</p>
 	<p>(3)Adaptive Manifold Regularized Matrix Factorization for Data Clustering (IJCAI-2017)</p>
 	<p>(4)Multi-Component Nonnegative Matrix Factorization (IJCAI-2017)</p>
+	<p>(5)Finding Cut from the Same Cloth: Cross Network Link Recommendation via Joint Matrix Factorization</p>
 </td><td><p>刘晓虎</p><p>金旭</p><p>袁俊豪</p></td><td><a href="https://raw.githubusercontent.com/nkiip/nkiip.github.com/master/raw/meetings/2018-03-30.zip">下载</a></td></tr>
 </tbody></table>
